@@ -119,12 +119,12 @@ footer {
     color: white;
 }
 
+.tag a {
+    color: lightblue;
+}
+
 /*       Mobile        */
 @media only screen and (max-width: 480px) {
-    #nav-links {
-        display: flex;
-    }
-
     #main {
         display: block;
     }
